@@ -1,7 +1,4 @@
-# MargaAber
-My personal repository
-
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Margalit Abermad
 
 ## About Me
 
@@ -36,9 +33,11 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 
 ## My Projects
 
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
-- ...
+- [Election-survey](https://github.com/Margalit-Abermad/Election-survey)
+- [QR & Barcode-Reader](https://github.com/Margalit-Abermad/QR---Barcode-Reader)
+- [Face Recognition](https://github.com/Margalit-Abermad/finished-Face-Recognition-)
+- [People Counter](https://github.com/Margalit-Abermad/PeopleCounter)
+
 
 ## Connect with Me
 
