@@ -18,7 +18,7 @@ My motto -
 - 🚀 Frameworks: ASP.NET, Angular, React
 
 ## My GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=111&show_icons=true&theme=radical)
 
 
 ## Languages and Tools
