@@ -1,7 +1,6 @@
 # MargaAber
 My personal repository
 
-
 # Hi there! 👋 I'm [Your Name]
 
 ## About Me
@@ -17,15 +16,15 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Margalit-Abermad&show_icons=true&theme=radical)
 
 ## My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=3&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Margalit-Abermad&langs_count=3&layout=compact&theme=radical)
 
 ## My Badges
 
-- ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+- ![GitHub followers](https://img.shields.io/github/followers/Margalit-Abermad?label=Followers&style=social)
 - ![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
 
 ## My Latest Blog Posts
@@ -45,5 +44,3 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue)](your-twitter-profile)
-
-
