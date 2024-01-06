@@ -2,7 +2,14 @@
 
 ## About Me
 
-I'm passionate about coding and building cool stuff. Exploring the endless possibilities of technology is what keeps me motivated.
+
+I'm Margalit Abramed,
+software developer in my mind,
+I'm passionate about coding and building cool stuff. 
+Exploring the endless possibilities of technology is what keeps me motivated.
+I keep thinking of things that can be developed, (and I also make sure to implement them...! 😊)
+My motto -
+**'Accumulate your experience with deeds, not hours...'** 👩‍💻
 
 ## My Tech Stack
 
@@ -26,6 +33,13 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+
+
+## Languages and Tools
+
+🛠 Languages and tools I know and use:
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="WordPress" width="50" height="50">
 
 
 ## My Projects
