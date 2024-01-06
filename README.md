@@ -8,8 +8,7 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 
 - 💻 Languages: C#, Python, Angular
 - 🌐 Web Technologies: WordPress
-- 🚀 Frameworks: [Your Favorite Frameworks]
-- ...
+- 🚀 Frameworks: ASP.NET, Angular, React
 
 ## My GitHub Stats
 
@@ -27,6 +26,7 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+
 
 ## My Projects
 
