@@ -1,6 +1,7 @@
 # MargaAber
 My personal repository
 
+
 # Hi there! 👋 I'm [Your Name]
 
 ## About Me
@@ -9,7 +10,7 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 
 ## My Tech Stack
 
-- 💻 Languages: [Your Favorite Languages]
+- 💻 Languages: C#, Python, Angular
 - 🚀 Frameworks: [Your Favorite Frameworks]
 - 🌐 Web Technologies: [Your Web Technologies]
 - ...
@@ -20,7 +21,7 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 
 ## My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=3&layout=compact&theme=radical)
 
 ## My Badges
 
@@ -45,7 +46,4 @@ I'm passionate about coding and building cool stuff. Exploring the endless possi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue)](your-twitter-profile)
 
-Feel free to replace the placeholder values with your actual information. You can also explore more customization options and add new sections based on your preferences. Additionally, consider adding screenshots or images to make your README visually appealing.
-
-For real-time stats and more advanced features, you can check out services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) or [Shields.io](https://shields.io/) for additional badges and customization options.
 
