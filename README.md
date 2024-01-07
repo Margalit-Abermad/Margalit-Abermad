@@ -55,6 +55,10 @@ My motto -
 
 <br/>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Margalit-Abermad&langs_count=3&layout=compact&theme=radical)
+
+<br/>
+
 > NOTE: "Languages and tools I know and use" does not indicate my skill level or something like that, it's just a metric of which languages I have used the most here on GitHub...
 
 <br/>
