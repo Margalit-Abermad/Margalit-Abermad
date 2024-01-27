@@ -18,7 +18,8 @@ My motto -
 
 ## My GitHub Stats
 
-1111
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Margalit-Abermad&show_icons=true&theme=radical)
+
 
 <!-- 
 ## Languages and Tools
