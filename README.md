@@ -42,8 +42,11 @@ My motto -
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margalit-Abermad&repo=QR---Barcode-Reader&theme=radical)](https://github.com/Margalit-Abermad/QR---Barcode-Reader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margalit-Abermad&repo=finished-Face-Recognition-&theme=radical)](https://github.com/Margalit-Abermad/finished-Face-Recognition-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margalit-Abermad&repo=Election-survey&theme=radical)](https://github.com/Margalit-Abermad/Election-survey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margalit-Abermad&repo=RockPaperScissore&theme=radical)](https://github.com/Margalit-Abermad/RockPaperScissore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margalit-Abermad&repo=Parking-spaces-available&theme=radical)](https://github.com/Margalit-Abermad/Parking-spaces-available
 )
+
+
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Margalit-Abermad&repo=PeopleCounter&theme=radical)](https://github.com/Margalit-Abermad/PeopleCounter)
