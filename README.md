@@ -11,7 +11,7 @@ My motto -
 
 ## My Tech Stack
 
-- 💻 Languages: C#, Python, C++, JS, JQuery
+- 💻 Languages: C#, Python, C++, JS, Java, Java 8, JQuery
 - 🚀 Frameworks: ASP.NET, Angular, React
 - 🌐 Web Technologies: WordPress
 
