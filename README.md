@@ -3,7 +3,11 @@
 <br/>
 a passionate software developer who loves turning ideas into code.
 <br/>
-**'Accumulate your experience with deeds, not hours...'** 👩‍💻
+I like to tell programmers 😏 -
+<br/>
+**'Accumulate your experience with deeds, not hours... 💻💻💻'**
+<br/>
+
 
 #### My Tech Stack
 
