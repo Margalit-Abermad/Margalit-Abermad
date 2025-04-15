@@ -37,7 +37,7 @@ a passionate software developer who loves turning ideas into code.
 
 #### 👀 look at my LinkedIn profile 
 
-<a href="https://www.linkedin.com/in/margalit-abermad" target="https://www.linkedin.com/in/margalit-abermad-b61831296/">
+<a href="https://www.linkedin.com/in/margalit-abermad-b61831296/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
 </a>
 
