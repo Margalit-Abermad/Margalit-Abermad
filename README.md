@@ -1,5 +1,5 @@
 
-**I'm Margalit Abramed**
+**I'm Margalit** 👋 
 <br/>
 a passionate software developer who loves turning ideas into code.
 <br/>
